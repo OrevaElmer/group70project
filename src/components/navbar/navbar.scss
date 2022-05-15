@@ -1,0 +1,54 @@
+.navbar{
+    height: 80px;
+    border-bottom: 0.5px solid rgb(216, 214, 214);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    color: rgb(99, 97, 97);
+    background-color: #fff;
+
+    .wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0 30px;
+        justify-content: space-between;
+        width: 100%;
+        
+        .search{
+            display: flex;
+            align-items: center;
+            border: 0.5px solid rgb(216, 214, 214);
+        }
+        input,select{
+            border: none;
+            outline: none;
+            padding: 8px 4px;
+        }
+        select{
+            cursor: pointer;
+        }
+        .items{
+            display: flex;
+            align-items: center;
+        }
+        .item{
+            display: flex;
+            align-items: center;
+            margin-right: 20px;
+        }
+        .icon{
+            font-size: 18px;
+            background-color: #8665ff;
+            color: aliceblue;
+            padding: 5px;
+            align-self: flex-end;
+            border-radius: 5px;
+        }
+        .avatar{
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            border: 0.5px solid rgb(216, 214, 214);
+            }
+    }
+}
