@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/group70project/static/css/main.d3a24274.css",
+    "main.js": "/group70project/static/js/main.62e31450.js",
+    "static/media/egalase.jpg": "/group70project/static/media/egalase.a2c4d9f3a97a8080d94f.jpg",
+    "index.html": "/group70project/index.html",
+    "main.d3a24274.css.map": "/group70project/static/css/main.d3a24274.css.map",
+    "main.62e31450.js.map": "/group70project/static/js/main.62e31450.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a24274.css",
+    "static/js/main.62e31450.js"
+  ]
+}
