@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <div className="home">
 
-        <Sidebar />
+        <Sidebar /> 
       
         <div className="homeContainer">
 
