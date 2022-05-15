@@ -1,8 +1,8 @@
 {
-  "homepage": "http://OrevaElmer.github.io/",
+  "homepage": "http://OrevaElmer.github.io/group70p",
   "name": "capstone-two",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
